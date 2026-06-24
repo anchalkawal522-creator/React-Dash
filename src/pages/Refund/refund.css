@@ -1,0 +1,37 @@
+
+.card-icon{
+    width:60px;
+    height:60px;
+    border-radius:18px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:24px;
+}
+
+.custom-table-scroll {
+    max-height: 250px;
+    overflow-y: auto
+}
+
+.custom-table-scroll thead th{
+    position:sticky;
+    top:0;
+    background:white;
+    z-index:10;
+}
+
+.custom-table-scroll::-webkit-scrollbar{
+    width:7px;
+}
+
+.custom-table-scroll::-webkit-scrollbar-thumb{
+    background:#c9c9c9;
+    border-radius:10px;
+}
+
+.chart-card,
+.table-card{
+    border:none;
+    border-radius:20px;
+}

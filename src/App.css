@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background: #f5f6fa;
+}
+.content-dash {
+    margin-left: 220px;
+    padding: 30px 12px 10px 60px;
+    margin-top: 60px;
+}
