@@ -1,4 +1,4 @@
-import "./Header.css";
+import "./header.css";
 import { CiSun } from "react-icons/ci";
 import { IoIosNotifications } from "react-icons/io";
 
