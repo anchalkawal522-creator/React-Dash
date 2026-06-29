@@ -6,7 +6,7 @@ import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import Astrologers from "./pages/Astrologers/Astrologers";
 import Refunds from "./pages/Refund/Refunds";
 import Review from "./pages/Reviews/Reviews";
-import Users from "./pages/Usersmanage/users";
+import Users from "./pages/Users/Users";
 import Bookings from "./pages/Booking/Booking";
 import Revenue from "./pages/Revenue/Revenue";
 import Login from "./Login/Login";
